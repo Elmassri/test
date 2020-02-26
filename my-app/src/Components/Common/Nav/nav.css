@@ -1,0 +1,18 @@
+
+  ul li a:hover {
+    color: wheat !important;
+  }
+  .nav-left{
+    margin-left: auto;
+  }
+  .eachNav{
+    margin: 7px;
+  }
+
+
+
+  @media only screen and (max-width: 450px){
+    .nav-link{
+      margin-right: 95px;
+    }
+  }

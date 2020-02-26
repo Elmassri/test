@@ -1,0 +1,18 @@
+
+@media only screen and (max-width: 450px){
+  .imageSize{
+    width: 150px;
+  }
+}
+
+
+@media only screen and (min-width: 450px) and (max-width: 767px){
+  .imageSize{
+    width: 150px;
+  }
+} 
+@media only screen and (min-width: 767px) and (max-width: 1200px){
+  .imageSize{
+    width: 150px;
+  }
+} 
